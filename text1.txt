@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 5EE9-4A28
+
+ Directory of C:\Users\kmaru\Desktop\Project
+
+22/02/2020  08:18 PM    <DIR>          .
+22/02/2020  08:18 PM    <DIR>          ..
+22/02/2020  08:18 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  56,566,411,264 bytes free
